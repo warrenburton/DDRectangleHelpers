@@ -1,10 +1,10 @@
 //
 //  NSView+ViewHelpers.h
-//  DevSketch
+//  WTFPL Licensed
+// ----------------
+// Use at your own risk. Modify and redistribute freely
 //
-//  Created by Warren Burton on 01/12/2013.
-//  Copyright (c) 2013 Warren Burton. All rights reserved.
-//
+
 
 #import <Cocoa/Cocoa.h>
 

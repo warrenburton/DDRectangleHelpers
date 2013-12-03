@@ -1,9 +1,8 @@
 //
 //  NSView+ViewHelpers.m
-//  DevSketch
-//
-//  Created by Warren Burton on 01/12/2013.
-//  Copyright (c) 2013 Warren Burton. All rights reserved.
+//  WTFPL Licensed
+// ----------------
+// Use at your own risk. Modify and redistribute freely
 //
 
 #import "NSView+ViewHelpers.h"
