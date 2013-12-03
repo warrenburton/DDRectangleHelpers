@@ -7,7 +7,7 @@
 
 #import "NSView+ViewHelpers.h"
 
-static CGFloat PI = 3.151;
+static CGFloat PI = 3.14159;
 
 typedef enum {
     TopQuad,
